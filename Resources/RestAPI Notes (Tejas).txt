@@ -91,6 +91,10 @@ Open Git Bash & run the following commands:
 
 Go to http://localhost:3030 to check if API is working
 
+TO START THE APP:
+ Go to project code location i.e folder containing api-playground
+ npm start
+
 [ ] -- List
 { } -- Map (denotes an object)
 
